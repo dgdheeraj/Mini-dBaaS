@@ -1,6 +1,5 @@
-# CC_Mini_Project
-Mini Project - RideShare App for the course Cloud Computing: UE17CS352
-
+# Mini Database-as-a-Service
+Mini Database-as-a-Service for rideshare application
 
 # Steps To Run:-
 
